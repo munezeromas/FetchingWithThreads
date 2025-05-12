@@ -8,7 +8,7 @@ public class Main {
                 "https://igihe.com/index.php"
         };
 
-        System.out.println("Welcome to Fetching with Multi-threading");
+        System.out.println("Main thread continues processing...");
 
         int i = 1;
         for (String url : urls) {
